@@ -1,0 +1,1 @@
+[12-May-2015 17:39:33 America/Toronto] PHP Fatal error:  Call to undefined function timestamp() in /home/rdshe507/public_html/kekpanel/includes/widgets/articles.php on line 2

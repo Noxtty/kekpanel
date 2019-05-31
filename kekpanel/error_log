@@ -1,0 +1,237 @@
+[18-Apr-2015 14:19:38 America/Toronto] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/rdshe507/public_html/panel/panel.php:3) in /home/rdshe507/public_html/panel/core/init.php on line 2
+[18-Apr-2015 14:19:38 America/Toronto] PHP Parse error:  syntax error, unexpected ';' in /home/rdshe507/public_html/panel/core/database/connect.php on line 2
+[18-Apr-2015 14:23:23 America/Toronto] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/rdshe507/public_html/panel/panel.php:3) in /home/rdshe507/public_html/panel/core/init.php on line 2
+[18-Apr-2015 14:23:23 America/Toronto] PHP Parse error:  syntax error, unexpected ';' in /home/rdshe507/public_html/panel/core/database/connect.php on line 2
+[18-Apr-2015 14:25:03 America/Toronto] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/rdshe507/public_html/panel/panel.php:3) in /home/rdshe507/public_html/panel/core/init.php on line 2
+[18-Apr-2015 14:25:03 America/Toronto] PHP Parse error:  syntax error, unexpected ';' in /home/rdshe507/public_html/panel/core/database/connect.php on line 2
+[18-Apr-2015 14:25:48 America/Toronto] PHP Parse error:  syntax error, unexpected ';' in /home/rdshe507/public_html/panel/core/database/connect.php on line 2
+[18-Apr-2015 14:26:14 America/Toronto] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/rdshe507/public_html/panel/core/database/connect.php on line 3
+[18-Apr-2015 14:39:52 America/Toronto] PHP Warning:  include(includes/header.php;): failed to open stream: No such file or directory in /home/rdshe507/public_html/panel/includes/overall/header.php on line 6
+[18-Apr-2015 14:39:52 America/Toronto] PHP Warning:  include(includes/header.php;): failed to open stream: No such file or directory in /home/rdshe507/public_html/panel/includes/overall/header.php on line 6
+[18-Apr-2015 14:39:52 America/Toronto] PHP Warning:  include(): Failed opening 'includes/header.php;' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdshe507/public_html/panel/includes/overall/header.php on line 6
+[18-Apr-2015 14:56:46 America/Toronto] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/rdshe507/public_html/panel/core/init.php on line 5
+[18-Apr-2015 15:00:06 America/Toronto] PHP Parse error:  syntax error, unexpected 'mysql_connect' (T_STRING) in /home/rdshe507/public_html/panel/core/database/connect.php on line 3
+[18-Apr-2015 15:02:06 America/Toronto] PHP Parse error:  syntax error, unexpected 'mysql_connect' (T_STRING) in /home/rdshe507/public_html/panel/core/database/connect.php on line 3
+[18-Apr-2015 15:02:08 America/Toronto] PHP Parse error:  syntax error, unexpected 'mysql_connect' (T_STRING) in /home/rdshe507/public_html/panel/core/database/connect.php on line 3
+[18-Apr-2015 15:42:22 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/panel/core/functions/users.php on line 5
+[18-Apr-2015 15:47:08 America/Toronto] PHP Parse error:  syntax error, unexpected ')' in /home/rdshe507/public_html/panel/core/functions/users.php on line 9
+[18-Apr-2015 15:47:27 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/panel/core/functions/users.php on line 4
+[18-Apr-2015 15:48:34 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/panel/core/functions/users.php on line 4
+[18-Apr-2015 15:55:44 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/panel/core/functions/users.php on line 4
+[18-Apr-2015 15:56:14 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/panel/core/functions/users.php on line 4
+[18-Apr-2015 15:57:30 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/panel/core/functions/users.php on line 4
+[18-Apr-2015 15:57:52 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/panel/core/functions/users.php on line 4
+[18-Apr-2015 15:59:13 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/panel/core/functions/users.php on line 4
+[18-Apr-2015 15:59:51 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/panel/core/functions/users.php on line 4
+[18-Apr-2015 16:01:52 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/panel/core/functions/users.php on line 4
+[18-Apr-2015 16:09:57 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/panel/core/functions/users.php on line 4
+[18-Apr-2015 16:10:15 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/panel/core/functions/users.php on line 4
+[18-Apr-2015 16:10:36 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/panel/core/functions/users.php on line 4
+[18-Apr-2015 16:13:54 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/panel/core/functions/users.php on line 4
+[18-Apr-2015 16:44:08 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/panel/core/functions/users.php on line 5
+[18-Apr-2015 17:16:50 America/Toronto] PHP Parse error:  syntax error, unexpected ',' in /home/rdshe507/public_html/panel/login.php on line 16
+[18-Apr-2015 17:25:21 America/Toronto] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/rdshe507/public_html/panel/core/init.php on line 5
+[18-Apr-2015 17:26:21 America/Toronto] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/rdshe507/public_html/panel/core/init.php on line 5
+[18-Apr-2015 17:26:23 America/Toronto] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/rdshe507/public_html/panel/core/init.php on line 5
+[18-Apr-2015 17:26:24 America/Toronto] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/rdshe507/public_html/panel/core/init.php on line 5
+[18-Apr-2015 17:26:28 America/Toronto] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/rdshe507/public_html/panel/core/init.php on line 5
+[18-Apr-2015 17:26:41 America/Toronto] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/rdshe507/public_html/panel/core/init.php on line 5
+[19-Apr-2015 15:55:51 America/Toronto] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rdshe507/public_html/panel/login.php on line 33
+[19-Apr-2015 15:56:29 America/Toronto] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rdshe507/public_html/panel/login.php on line 33
+[19-Apr-2015 15:56:31 America/Toronto] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rdshe507/public_html/panel/login.php on line 33
+[19-Apr-2015 23:58:17 America/Toronto] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/rdshe507/public_html/panel/register.php on line 7
+[20-Apr-2015 00:00:49 America/Toronto] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/rdshe507/public_html/panel/register.php on line 7
+[20-Apr-2015 00:00:51 America/Toronto] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/rdshe507/public_html/panel/register.php on line 7
+[20-Apr-2015 00:02:07 America/Toronto] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/rdshe507/public_html/panel/register.php on line 7
+[20-Apr-2015 00:03:45 America/Toronto] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/rdshe507/public_html/panel/register.php on line 7
+[20-Apr-2015 00:03:54 America/Toronto] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/rdshe507/public_html/panel/register.php on line 7
+[20-Apr-2015 00:20:15 America/Toronto] PHP Parse error:  syntax error, unexpected '<' in /home/rdshe507/public_html/panel/register.php on line 18
+[20-Apr-2015 00:21:07 America/Toronto] PHP Parse error:  syntax error, unexpected '{' in /home/rdshe507/public_html/panel/register.php on line 18
+[20-Apr-2015 00:25:05 America/Toronto] PHP Parse error:  syntax error, unexpected 'AND' (T_LOGICAL_AND) in /home/rdshe507/public_html/panel/register.php on line 18
+[20-Apr-2015 00:25:17 America/Toronto] PHP Parse error:  syntax error, unexpected '{' in /home/rdshe507/public_html/panel/register.php on line 18
+[20-Apr-2015 00:25:47 America/Toronto] PHP Parse error:  syntax error, unexpected '{' in /home/rdshe507/public_html/panel/register.php on line 18
+[20-Apr-2015 00:25:51 America/Toronto] PHP Parse error:  syntax error, unexpected '{' in /home/rdshe507/public_html/panel/register.php on line 18
+[20-Apr-2015 00:26:27 America/Toronto] PHP Parse error:  syntax error, unexpected '{' in /home/rdshe507/public_html/panel/register.php on line 18
+[20-Apr-2015 00:26:31 America/Toronto] PHP Parse error:  syntax error, unexpected '{' in /home/rdshe507/public_html/panel/register.php on line 18
+[20-Apr-2015 00:35:25 America/Toronto] PHP Parse error:  syntax error, unexpected '=' in /home/rdshe507/public_html/panel/register.php on line 21
+[20-Apr-2015 00:35:57 America/Toronto] PHP Parse error:  syntax error, unexpected '=' in /home/rdshe507/public_html/panel/register.php on line 21
+[20-Apr-2015 00:35:59 America/Toronto] PHP Parse error:  syntax error, unexpected '=' in /home/rdshe507/public_html/panel/register.php on line 21
+[20-Apr-2015 00:36:03 America/Toronto] PHP Parse error:  syntax error, unexpected '}' in /home/rdshe507/public_html/panel/register.php on line 24
+[20-Apr-2015 01:15:04 America/Toronto] PHP Parse error:  syntax error, unexpected ''password'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rdshe507/public_html/panel/register.php on line 47
+[20-Apr-2015 01:43:53 America/Toronto] PHP Parse error:  syntax error, unexpected end of file in /home/rdshe507/public_html/panel/register.php on line 103
+[20-Apr-2015 01:45:07 America/Toronto] PHP Parse error:  syntax error, unexpected '>' in /home/rdshe507/public_html/panel/register.php on line 22
+[20-Apr-2015 01:57:19 America/Toronto] PHP Parse error:  syntax error, unexpected ',' in /home/rdshe507/public_html/panel/register.php on line 23
+[20-Apr-2015 01:57:31 America/Toronto] PHP Parse error:  syntax error, unexpected ',' in /home/rdshe507/public_html/panel/register.php on line 23
+[20-Apr-2015 01:57:33 America/Toronto] PHP Parse error:  syntax error, unexpected ',' in /home/rdshe507/public_html/panel/register.php on line 23
+[20-Apr-2015 02:08:57 America/Toronto] PHP Parse error:  syntax error, unexpected end of file in /home/rdshe507/public_html/panel/register.php on line 106
+[20-Apr-2015 02:09:33 America/Toronto] PHP Parse error:  syntax error, unexpected end of file in /home/rdshe507/public_html/panel/register.php on line 106
+[20-Apr-2015 02:09:36 America/Toronto] PHP Parse error:  syntax error, unexpected end of file in /home/rdshe507/public_html/panel/register.php on line 106
+[20-Apr-2015 02:09:54 America/Toronto] PHP Parse error:  syntax error, unexpected end of file in /home/rdshe507/public_html/panel/register.php on line 105
+[20-Apr-2015 02:09:56 America/Toronto] PHP Parse error:  syntax error, unexpected end of file in /home/rdshe507/public_html/panel/register.php on line 105
+[20-Apr-2015 02:10:46 America/Toronto] PHP Parse error:  syntax error, unexpected end of file in /home/rdshe507/public_html/panel/register.php on line 104
+[20-Apr-2015 12:27:58 America/Toronto] PHP Parse error:  syntax error, unexpected '{' in /home/rdshe507/public_html/chatroom/changepassword.php on line 15
+[21-Apr-2015 20:03:22 America/Toronto] PHP Parse error:  syntax error, unexpected '}' in /home/rdshe507/public_html/chatroom/activate.php on line 20
+[26-Apr-2015 13:55:25 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 13:55:25 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 13:55:25 America/Toronto] PHP Warning:  include(): Failed opening '../login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 13:56:16 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 13:56:16 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 13:56:16 America/Toronto] PHP Warning:  include(): Failed opening '../login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 13:58:10 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 13:58:11 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 13:58:11 America/Toronto] PHP Warning:  include(): Failed opening '../login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 13:59:45 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 13:59:45 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 13:59:45 America/Toronto] PHP Warning:  include(): Failed opening '../login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:06:49 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:06:49 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:06:49 America/Toronto] PHP Warning:  include(): Failed opening '../login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:08:39 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:08:39 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:08:39 America/Toronto] PHP Warning:  include(): Failed opening '../login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:11:47 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:11:47 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:11:47 America/Toronto] PHP Warning:  include(): Failed opening '../login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:11:48 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:11:48 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:11:48 America/Toronto] PHP Warning:  include(): Failed opening '../login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:13:39 America/Toronto] PHP Warning:  include(../../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:13:39 America/Toronto] PHP Warning:  include(../../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:13:39 America/Toronto] PHP Warning:  include(): Failed opening '../../login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:13:56 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:13:56 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:13:56 America/Toronto] PHP Warning:  include(): Failed opening '../login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:14:35 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:14:35 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:14:35 America/Toronto] PHP Warning:  include(): Failed opening '../login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:14:47 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:14:47 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:14:47 America/Toronto] PHP Warning:  include(): Failed opening '../login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:14:52 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:14:52 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:14:52 America/Toronto] PHP Warning:  include(): Failed opening '../login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:15:06 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:15:06 America/Toronto] PHP Warning:  include(../login.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[26-Apr-2015 14:15:06 America/Toronto] PHP Warning:  include(): Failed opening '../login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdshe507/public_html/chatroom/includes/overall/header.php on line 9
+[01-May-2015 15:26:08 America/Toronto] PHP Fatal error:  Call to undefined function update_user() in /home/rdshe507/public_html/chatroom/user_settings.php on line 36
+[01-May-2015 15:26:47 America/Toronto] PHP Fatal error:  Call to undefined function update_user() in /home/rdshe507/public_html/chatroom/user_settings.php on line 36
+[01-May-2015 20:41:54 America/Toronto] PHP Parse error:  syntax error, unexpected '$update' (T_VARIABLE) in /home/rdshe507/public_html/chatroom/core/functions/users.php on line 12
+[02-May-2015 00:27:33 America/Toronto] PHP Parse error:  syntax error, unexpected ''first_name'' (T_CONSTANT_ENCAPSED_STRING) in /home/rdshe507/public_html/chatroom/profile.php on line 11
+[02-May-2015 01:27:18 America/Toronto] PHP Fatal error:  Call to undefined function logged_in_redirect() in /home/rdshe507/public_html/chatroom/recover.php on line 3
+[02-May-2015 01:27:37 America/Toronto] PHP Fatal error:  Call to undefined function Logged_in_redirect() in /home/rdshe507/public_html/chatroom/recover.php on line 3
+[02-May-2015 01:27:38 America/Toronto] PHP Fatal error:  Call to undefined function Logged_in_redirect() in /home/rdshe507/public_html/chatroom/recover.php on line 3
+[02-May-2015 11:40:06 America/Toronto] PHP Fatal error:  Call to undefined function orint_r() in /home/rdshe507/public_html/chatroom/core/init.php on line 10
+[02-May-2015 11:40:06 America/Toronto] PHP Fatal error:  Call to undefined function orint_r() in /home/rdshe507/public_html/chatroom/core/init.php on line 10
+[10-May-2015 21:28:00 America/Toronto] PHP Fatal error:  Call to undefined function protect_page() in /home/rdshe507/public_html/kekpanel/admin.php on line 3
+[10-May-2015 21:35:59 America/Toronto] PHP Parse error:  syntax error, unexpected end of file in /home/rdshe507/public_html/kekpanel/core/functions/general.php on line 34
+[10-May-2015 21:35:59 America/Toronto] PHP Parse error:  syntax error, unexpected end of file in /home/rdshe507/public_html/kekpanel/core/functions/general.php on line 34
+[10-May-2015 21:41:10 America/Toronto] PHP Parse error:  syntax error, unexpected '===' (T_IS_IDENTICAL) in /home/rdshe507/public_html/kekpanel/core/functions/general.php on line 20
+[10-May-2015 21:41:11 America/Toronto] PHP Parse error:  syntax error, unexpected '===' (T_IS_IDENTICAL) in /home/rdshe507/public_html/kekpanel/core/functions/general.php on line 20
+[10-May-2015 21:41:24 America/Toronto] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/rdshe507/public_html/kekpanel/core/functions/general.php on line 20
+[10-May-2015 21:41:24 America/Toronto] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/rdshe507/public_html/kekpanel/core/functions/general.php on line 20
+[10-May-2015 21:42:59 America/Toronto] PHP Parse error:  syntax error, unexpected ')' in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 6
+[10-May-2015 21:43:05 America/Toronto] PHP Parse error:  syntax error, unexpected ')' in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 6
+[10-May-2015 21:43:05 America/Toronto] PHP Parse error:  syntax error, unexpected ')' in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 6
+[10-May-2015 21:43:06 America/Toronto] PHP Parse error:  syntax error, unexpected ')' in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 6
+[10-May-2015 21:43:13 America/Toronto] PHP Parse error:  syntax error, unexpected ')' in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 6
+[10-May-2015 21:43:13 America/Toronto] PHP Parse error:  syntax error, unexpected ')' in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 6
+[10-May-2015 21:44:43 America/Toronto] PHP Parse error:  syntax error, unexpected ')' in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 6
+[10-May-2015 21:44:44 America/Toronto] PHP Parse error:  syntax error, unexpected ')' in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 6
+[10-May-2015 21:44:45 America/Toronto] PHP Parse error:  syntax error, unexpected ')' in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 6
+[10-May-2015 21:44:45 America/Toronto] PHP Parse error:  syntax error, unexpected ')' in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 6
+[10-May-2015 22:21:32 America/Toronto] PHP Parse error:  syntax error, unexpected '}' in /home/rdshe507/public_html/kekpanel/includes/widgets/add_content.php on line 8
+[10-May-2015 22:35:40 America/Toronto] PHP Warning:  include(includes/widgets/add_content.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/kekpanel/admin.php on line 5
+[10-May-2015 22:35:40 America/Toronto] PHP Warning:  include(includes/widgets/add_content.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/kekpanel/admin.php on line 5
+[10-May-2015 22:35:40 America/Toronto] PHP Warning:  include(): Failed opening 'includes/widgets/add_content.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdshe507/public_html/kekpanel/admin.php on line 5
+[10-May-2015 22:35:40 America/Toronto] PHP Warning:  include(includes/widgets/field_content.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/kekpanel/admin.php on line 11
+[10-May-2015 22:35:40 America/Toronto] PHP Warning:  include(includes/widgets/field_content.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/kekpanel/admin.php on line 11
+[10-May-2015 22:35:40 America/Toronto] PHP Warning:  include(): Failed opening 'includes/widgets/field_content.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdshe507/public_html/kekpanel/admin.php on line 11
+[12-May-2015 17:57:55 America/Toronto] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting '{' in /home/rdshe507/public_html/kekpanel/core/database/connect.php on line 6
+[12-May-2015 17:57:56 America/Toronto] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting '{' in /home/rdshe507/public_html/kekpanel/core/database/connect.php on line 6
+[12-May-2015 17:58:50 America/Toronto] PHP Parse error:  syntax error, unexpected '}' in /home/rdshe507/public_html/kekpanel/core/database/connect.php on line 7
+[12-May-2015 17:58:51 America/Toronto] PHP Parse error:  syntax error, unexpected '}' in /home/rdshe507/public_html/kekpanel/core/database/connect.php on line 7
+[12-May-2015 17:58:53 America/Toronto] PHP Parse error:  syntax error, unexpected '}' in /home/rdshe507/public_html/kekpanel/core/database/connect.php on line 7
+[12-May-2015 17:58:54 America/Toronto] PHP Parse error:  syntax error, unexpected '}' in /home/rdshe507/public_html/kekpanel/core/database/connect.php on line 7
+[12-May-2015 17:58:55 America/Toronto] PHP Parse error:  syntax error, unexpected '}' in /home/rdshe507/public_html/kekpanel/core/database/connect.php on line 7
+[12-May-2015 17:58:55 America/Toronto] PHP Parse error:  syntax error, unexpected '}' in /home/rdshe507/public_html/kekpanel/core/database/connect.php on line 7
+[12-May-2015 17:59:07 America/Toronto] PHP Parse error:  syntax error, unexpected '}' in /home/rdshe507/public_html/kekpanel/core/database/connect.php on line 7
+[12-May-2015 17:59:07 America/Toronto] PHP Parse error:  syntax error, unexpected '}' in /home/rdshe507/public_html/kekpanel/core/database/connect.php on line 7
+[12-May-2015 17:59:09 America/Toronto] PHP Parse error:  syntax error, unexpected '}' in /home/rdshe507/public_html/kekpanel/core/database/connect.php on line 7
+[12-May-2015 17:59:09 America/Toronto] PHP Parse error:  syntax error, unexpected '}' in /home/rdshe507/public_html/kekpanel/core/database/connect.php on line 7
+[12-May-2015 17:59:43 America/Toronto] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 87
+[12-May-2015 17:59:43 America/Toronto] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 87
+[12-May-2015 17:59:43 America/Toronto] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 87
+[12-May-2015 17:59:43 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/rdshe507/public_html/kekpanel/core/functions/general.php on line 37
+[12-May-2015 17:59:43 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/rdshe507/public_html/kekpanel/core/functions/general.php on line 37
+[12-May-2015 17:59:43 America/Toronto] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 106
+[12-May-2015 17:59:43 America/Toronto] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 106
+[12-May-2015 17:59:43 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 106
+[12-May-2015 17:59:44 America/Toronto] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 74
+[12-May-2015 17:59:44 America/Toronto] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 74
+[12-May-2015 17:59:44 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 74
+[12-May-2015 17:59:44 America/Toronto] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 74
+[12-May-2015 17:59:44 America/Toronto] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 74
+[12-May-2015 17:59:44 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 74
+[12-May-2015 17:59:44 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/rdshe507/public_html/kekpanel/core/functions/general.php on line 37
+[12-May-2015 17:59:44 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/rdshe507/public_html/kekpanel/core/functions/general.php on line 37
+[12-May-2015 17:59:44 America/Toronto] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 98
+[12-May-2015 17:59:44 America/Toronto] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 98
+[12-May-2015 17:59:44 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 98
+[12-May-2015 17:59:56 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/rdshe507/public_html/kekpanel/core/functions/general.php on line 37
+[12-May-2015 17:59:56 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/rdshe507/public_html/kekpanel/core/functions/general.php on line 37
+[12-May-2015 17:59:56 America/Toronto] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 98
+[12-May-2015 17:59:56 America/Toronto] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 98
+[12-May-2015 17:59:56 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 98
+[12-May-2015 17:59:56 America/Toronto] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 74
+[12-May-2015 17:59:56 America/Toronto] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 74
+[12-May-2015 17:59:56 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 74
+[12-May-2015 17:59:57 America/Toronto] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 74
+[12-May-2015 17:59:57 America/Toronto] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 74
+[12-May-2015 17:59:57 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 74
+[12-May-2015 17:59:57 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/rdshe507/public_html/kekpanel/core/functions/general.php on line 37
+[12-May-2015 17:59:57 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/rdshe507/public_html/kekpanel/core/functions/general.php on line 37
+[12-May-2015 17:59:57 America/Toronto] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 98
+[12-May-2015 17:59:57 America/Toronto] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 98
+[12-May-2015 17:59:57 America/Toronto] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/rdshe507/public_html/kekpanel/core/functions/users.php on line 98
+[12-May-2015 18:08:43 America/Toronto] PHP Fatal error:  Call to a member function execute() on a non-object in /home/rdshe507/public_html/kekpanel/includes/widgets/articles.php on line 6
+[12-May-2015 18:17:32 America/Toronto] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/rdshe507/public_html/kekpanel/admin.php on line 16
+[12-May-2015 18:18:42 America/Toronto] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/rdshe507/public_html/kekpanel/admin.php on line 16
+[12-May-2015 18:18:43 America/Toronto] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/rdshe507/public_html/kekpanel/admin.php on line 16
+[12-May-2015 18:49:21 America/Toronto] PHP Fatal error:  Call to undefined function logged_in() in /home/rdshe507/public_html/kekpanel/includes/menu.php on line 5
+[12-May-2015 18:50:53 America/Toronto] PHP Fatal error:  Call to undefined function logged_in() in /home/rdshe507/public_html/kekpanel/includes/menu.php on line 5
+[12-May-2015 18:50:57 America/Toronto] PHP Fatal error:  Call to undefined function logged_in() in /home/rdshe507/public_html/kekpanel/includes/menu.php on line 5
+[12-May-2015 18:51:39 America/Toronto] PHP Fatal error:  Call to undefined function logged_in() in /home/rdshe507/public_html/kekpanel/includes/menu.php on line 5
+[12-May-2015 18:52:13 America/Toronto] PHP Fatal error:  Call to undefined function logged_in() in /home/rdshe507/public_html/kekpanel/includes/menu.php on line 5
+[12-May-2015 18:53:05 America/Toronto] PHP Fatal error:  Call to a member function fetch_data() on a non-object in /home/rdshe507/public_html/kekpanel/article.php on line 10
+[12-May-2015 18:58:08 America/Toronto] PHP Warning:  include_once(includes/widgets/articles.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/kekpanel/admin.php on line 6
+[12-May-2015 18:58:08 America/Toronto] PHP Warning:  include_once(): Failed opening 'includes/widgets/articles.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdshe507/public_html/kekpanel/admin.php on line 6
+[12-May-2015 18:58:08 America/Toronto] PHP Fatal error:  Class 'Article' not found in /home/rdshe507/public_html/kekpanel/admin.php on line 7
+[12-May-2015 18:58:33 America/Toronto] PHP Warning:  include_once(includes/widgets/articles.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/kekpanel/admin.php on line 6
+[12-May-2015 18:58:33 America/Toronto] PHP Warning:  include_once(): Failed opening 'includes/widgets/articles.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdshe507/public_html/kekpanel/admin.php on line 6
+[12-May-2015 18:58:33 America/Toronto] PHP Fatal error:  Class 'Article' not found in /home/rdshe507/public_html/kekpanel/admin.php on line 7
+[12-May-2015 18:58:36 America/Toronto] PHP Warning:  include_once(includes/widgets/articles.php): failed to open stream: No such file or directory in /home/rdshe507/public_html/kekpanel/admin.php on line 6
+[12-May-2015 18:58:36 America/Toronto] PHP Warning:  include_once(): Failed opening 'includes/widgets/articles.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdshe507/public_html/kekpanel/admin.php on line 6
+[12-May-2015 18:58:36 America/Toronto] PHP Fatal error:  Class 'Article' not found in /home/rdshe507/public_html/kekpanel/admin.php on line 7
+[12-May-2015 18:59:36 America/Toronto] PHP Fatal error:  Call to a member function fetch_data() on a non-object in /home/rdshe507/public_html/kekpanel/articles.php on line 10
+[12-May-2015 18:59:51 America/Toronto] PHP Fatal error:  Call to a member function fetch_data() on a non-object in /home/rdshe507/public_html/kekpanel/articles.php on line 10
+[12-May-2015 18:59:55 America/Toronto] PHP Fatal error:  Call to a member function fetch_data() on a non-object in /home/rdshe507/public_html/kekpanel/articles.php on line 10
+[12-May-2015 19:13:16 America/Toronto] PHP Fatal error:  Call to a member function fetch_data() on a non-object in /home/rdshe507/public_html/kekpanel/article.php on line 10
+[12-May-2015 19:43:46 America/Toronto] PHP Parse error:  syntax error, unexpected ';' in /home/rdshe507/public_html/kekpanel/article.php on line 16
+[12-May-2015 19:53:30 America/Toronto] PHP Fatal error:  Cannot use object of type Article as array in /home/rdshe507/public_html/kekpanel/article.php on line 16
+[17-May-2015 20:43:05 America/Toronto] PHP Fatal error:  Cannot use object of type Article as array in /home/rdshe507/public_html/kekpanel/article.php on line 17
+[17-May-2015 20:45:32 America/Toronto] PHP Fatal error:  Cannot use object of type Article as array in /home/rdshe507/public_html/kekpanel/article.php on line 17
+[17-May-2015 20:45:40 America/Toronto] PHP Fatal error:  Cannot use object of type Article as array in /home/rdshe507/public_html/kekpanel/article.php on line 17
+[17-May-2015 20:45:43 America/Toronto] PHP Fatal error:  Cannot use object of type Article as array in /home/rdshe507/public_html/kekpanel/article.php on line 17
+[17-May-2015 20:49:02 America/Toronto] PHP Fatal error:  Cannot use object of type Article as array in /home/rdshe507/public_html/kekpanel/article.php on line 17
+[17-May-2015 20:49:04 America/Toronto] PHP Fatal error:  Cannot use object of type Article as array in /home/rdshe507/public_html/kekpanel/article.php on line 17
+[17-May-2015 20:49:14 America/Toronto] PHP Fatal error:  Cannot use object of type Article as array in /home/rdshe507/public_html/kekpanel/article.php on line 17
+[17-May-2015 20:53:19 America/Toronto] PHP Fatal error:  Cannot use object of type Article as array in /home/rdshe507/public_html/kekpanel/article.php on line 17
+[17-May-2015 21:17:06 America/Toronto] PHP Fatal error:  Cannot use object of type Article as array in /home/rdshe507/public_html/kekpanel/article.php on line 20
+[17-May-2015 21:19:27 America/Toronto] PHP Fatal error:  Cannot use object of type Article as array in /home/rdshe507/public_html/kekpanel/article.php on line 20
+[17-May-2015 21:19:28 America/Toronto] PHP Fatal error:  Cannot use object of type Article as array in /home/rdshe507/public_html/kekpanel/article.php on line 20
+[17-May-2015 21:19:44 America/Toronto] PHP Fatal error:  Cannot use object of type Article as array in /home/rdshe507/public_html/kekpanel/article.php on line 21
+[17-May-2015 21:19:46 America/Toronto] PHP Fatal error:  Cannot use object of type Article as array in /home/rdshe507/public_html/kekpanel/article.php on line 21
+[17-May-2015 21:19:46 America/Toronto] PHP Fatal error:  Cannot use object of type Article as array in /home/rdshe507/public_html/kekpanel/article.php on line 21
+[17-May-2015 21:19:46 America/Toronto] PHP Fatal error:  Cannot use object of type Article as array in /home/rdshe507/public_html/kekpanel/article.php on line 21
+[17-May-2015 21:19:46 America/Toronto] PHP Fatal error:  Cannot use object of type Article as array in /home/rdshe507/public_html/kekpanel/article.php on line 21
+[17-May-2015 21:20:29 America/Toronto] PHP Fatal error:  Cannot use object of type Article as array in /home/rdshe507/public_html/kekpanel/article.php on line 20
